@@ -6,7 +6,6 @@ This tool checks the strength of your GitHub password to ensure it meets the rec
 ## Features
 - Analyzes password strength
 - Provides strength rating (Weak, Moderate, Strong)
-- Offers suggestions for improvement
 
 ## Usage
 1. Clone the repository
