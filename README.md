@@ -1,4 +1,4 @@
-# GitHub Password Strength Checker
+# Password Strength Checker
 
 ## Overview
 This tool checks the strength of your GitHub password to ensure it meets the recommended security standards.
